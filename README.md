@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hey there! I'm Yasin Vega
 Web Full Stack Developer
-I'm 25 years old from Spain who loves technology. I'm currently focused on full stack web development and improve my skills every day, always learning something new.
+I'm 25 years old from Spain who loves technology. 
+I'm currently focused on full stack web development and improve my skills every day.
 I am currently developing a weather application made with Angular and an online banking project made with PHP.<br>I never stop learning something new.<br>And as a bonus I love football<br>
 
 
